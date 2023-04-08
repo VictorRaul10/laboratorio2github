@@ -1,0 +1,37 @@
+h1{
+    color: aqua;
+    font-style: oblique;
+}
+
+#titulo{
+    color: #e63946;
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+}
+
+
+
+h2{
+    font-style: oblique;
+    border: 4px solid lightseagreen;
+    border-radius: 10px 0px 5px 0px;
+    border-bottom: 10px solid lightseagreen;
+    font-size: 30px;
+    color: white;
+
+}
+p, li{
+    padding: 15px;
+    width: 70%;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-image: url("foto33.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
